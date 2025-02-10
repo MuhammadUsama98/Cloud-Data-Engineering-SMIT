@@ -1,0 +1,2 @@
+writing into the file with w as input
+writing into the file with a as input
